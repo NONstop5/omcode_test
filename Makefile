@@ -1,6 +1,9 @@
 install:
 	composer install
 
+run:
+	php public/index.php
+
 validate:
 	composer validate
 
