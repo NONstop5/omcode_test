@@ -1,3 +1,6 @@
+### Project tests and linter statuses:
+[![Main](https://github.com/NONstop5/omcode_test/actions/workflows/main.yml/badge.svg)](https://github.com/NONstop5/omcode_test/actions)
+
 # Тестовое в компанию Omcode
 
 ## Задание
