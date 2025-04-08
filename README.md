@@ -20,3 +20,6 @@
 
 ### Launch
 > `make run`
+
+### Описание задачи и предложения по улучшению:
+[Description.md](https://github.com/NONstop5/omcode_test/blob/master/Description.md)
